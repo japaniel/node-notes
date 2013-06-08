@@ -1,0 +1,13 @@
+{
+	"name": "notes",
+	"author": "Daniel Redington",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"starts": "node app"
+	},
+	"dependencies": {
+		"restify": "2.5.1",
+		"jade": "0.31.2"
+	}
+}
